@@ -1,0 +1,43 @@
+C:\Users\Ray\AppData\Local\Temporary Projects\Weekdays\bin\Debug\Weekdays.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Form1.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Resources.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.vbproj.GenerateResource.Cache
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe.config
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.pdb
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.xml
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Form1.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Resources.resources
+C:\Users\Ray\Documents\CinState\.Net 101\Spring_14\Week Thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\bin\Debug\Weekdays.exe.config
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.exe
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.xml
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.pdb
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.Form1.resources
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.Resources.resources
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\obj\Debug\Weekdays.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\bin\Debug\Weekdays.exe
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\bin\Debug\Weekdays.pdb
+C:\Users\raymond.harmon\Desktop\Weekdays\Weekdays\bin\Debug\Weekdays.xml
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe.config
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.exe
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.pdb
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\bin\Debug\Weekdays.xml
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Form1.resources
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.Resources.resources
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.exe
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.xml
+A:\Cincinnati State\.NET programming\week thirteen\Weekdays\Weekdays\obj\Debug\Weekdays.pdb
